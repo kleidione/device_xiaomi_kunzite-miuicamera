@@ -1,7 +1,7 @@
 From 724bc5e5395e9e5420dae31989cd6afcd5b4a627 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Sun, 7 Jun 2026 17:45:22 +0530
-Subject: [PATCH 06/12] Revert icon to cupid V14.0.2.0.TLCMICM
+Subject: Revert icon to cupid V14.0.2.0.TLCMICM
 
  * Adarsh: Update for new APK's
 
@@ -10279,5 +10279,5 @@ ze=XW)V`UzsK4@lYT4btTf~MTr(|`8?)|5HbBJTVD{{f6=TG!9qY%%}<002ovPDHLk
 FV1oWJU>5)Y
 
 -- 
-2.54.0
+2.56.0
 

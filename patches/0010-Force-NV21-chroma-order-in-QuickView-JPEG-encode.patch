@@ -1,7 +1,7 @@
 From 9628cb357c6476ffc356b1a6300118d063a9a1c3 Mon Sep 17 00:00:00 2001
 From: Byben <heybyben@gmail.com>
 Date: Sat, 26 Sep 2026 13:00:00 +0700
-Subject: [PATCH 10/12] Force NV21 chroma order in QuickView JPEG encode
+Subject: Force NV21 chroma order in QuickView JPEG encode
 
 Assisted-by: LLM
 Change-Id: Icdea6c1bed9189fcb93da77e13fca3ed836ef8e5
@@ -25,5 +25,5 @@ index 7e5c3017..c672e2e2 100644
  
      const/4 v1, 0x1
 -- 
-2.54.0
+2.56.0
 

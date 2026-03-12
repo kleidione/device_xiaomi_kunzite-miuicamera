@@ -1,8 +1,8 @@
 From 9859eb3936c7263353587e1b0eb9fdfe16aae441 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Sat, 29 Aug 2026 11:46:34 +0700
-Subject: [PATCH 08/12] Change com.android.camera.action.REVIEW to
- android.provider.action.REVIEW
+Subject: Change com.android.camera.action.REVIEW to
+android.provider.action.REVIEW
 
 Change-Id: I0025b573e5f8b21de6432d476a570169e5fa1930
 ---
@@ -32,5 +32,5 @@ index d00a217b..4b238e5e 100644
      invoke-static {v3, v6, v1}, Lcom/android/camera/log/Log;->d(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)V
  
 -- 
-2.54.0
+2.56.0
 
