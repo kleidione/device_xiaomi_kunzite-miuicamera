@@ -1,7 +1,7 @@
 From 6fd634e88bb510d273786da08e04e2396508a662 Mon Sep 17 00:00:00 2001
 From: Ido <dev.xyzuniverse@gmail.com>
 Date: Mon, 12 Oct 2026 09:03:06 +0700
-Subject: [PATCH] Add livephoto support
+Subject: [PATCH 12/12] Add livephoto support
 
 Change-Id: I988bd5a27207c2afcd2cdbdb85e8a6eba7230ffe
 Signed-off-by: Ido <dev.xyzuniverse@gmail.com>

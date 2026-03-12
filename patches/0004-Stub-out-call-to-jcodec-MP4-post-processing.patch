@@ -1,7 +1,7 @@
 From 782f79249a1715fa58d5432d3f76ffbd496520d6 Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Sun, 7 Jun 2026 15:59:45 +0530
-Subject: [PATCH 04/11] Stub out call to jcodec MP4 post-processing
+Subject: [PATCH 04/12] Stub out call to jcodec MP4 post-processing
 
 * this seems to be only for MP4 cover tag
 

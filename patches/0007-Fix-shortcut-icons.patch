@@ -1,7 +1,7 @@
 From 1ad67e92bf6e793a0b86756656ba587f7930e055 Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Sun, 7 Jun 2026 18:38:55 +0530
-Subject: [PATCH 07/11] Fix shortcut icons
+Subject: [PATCH 07/12] Fix shortcut icons
 
 Change-Id: I5be970c14f1a8519194c62f6ea279f6c8a3e6a28
 ---

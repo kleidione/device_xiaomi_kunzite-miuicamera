@@ -1,7 +1,7 @@
 From 0c6b61e45147a777732048b3e2691b66b71726e2 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Sat, 29 Aug 2026 11:47:03 +0700
-Subject: [PATCH 09/11] Support third party galleries
+Subject: [PATCH 09/12] Support third party galleries
 
 Change-Id: I4d2c54299f009d13be70b3dddeca6ff5e2767026
 ---

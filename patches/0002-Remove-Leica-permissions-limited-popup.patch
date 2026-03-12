@@ -1,7 +1,7 @@
 From 7de2cc650331439e32e125f5418e211d43f730ee Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Wed, 3 Jun 2026 14:00:15 +0530
-Subject: [PATCH 02/11] Remove Leica permissions limited popup
+Subject: [PATCH 02/12] Remove Leica permissions limited popup
 
 Change-Id: I40fc6e94ad78a0e2eb846d7f19fc3767fff069a2
 ---
