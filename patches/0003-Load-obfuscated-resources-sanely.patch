@@ -1,8 +1,9 @@
-From 0f72506c27e52e6584b1414d3e1044a69317948e Mon Sep 17 00:00:00 2001
+From 75ed3205b6c844bd77cfcec8d8eacd8c0e3d4949 Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Wed, 3 Jun 2026 16:42:54 +0530
-Subject: [PATCH 3/9] Load obfuscated resources sanely
+Subject: [PATCH 03/11] Load obfuscated resources sanely
 
+Change-Id: I5d8eb26b26910f2e9206b416078f70c697862507
 ---
  smali_classes4/F8/a.smali | 18 +++++++++++++++++-
  1 file changed, 17 insertions(+), 1 deletion(-)
@@ -60,3 +61,6 @@ index df6a3e71..08f989bd 100644
      :goto_2
      :try_start_3
      throw p0
+-- 
+2.54.0
+

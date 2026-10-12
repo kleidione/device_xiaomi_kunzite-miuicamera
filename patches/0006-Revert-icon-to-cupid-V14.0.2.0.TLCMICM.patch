@@ -1,9 +1,11 @@
-From 176dda44ae73ee9e9cb95c2b0f67f88be28fabce Mon Sep 17 00:00:00 2001
+From 724bc5e5395e9e5420dae31989cd6afcd5b4a627 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Sun, 7 Jun 2026 17:45:22 +0530
-Subject: [PATCH 6/9] Revert icon to cupid V14.0.2.0.TLCMICM
+Subject: [PATCH 06/11] Revert icon to cupid V14.0.2.0.TLCMICM
 
  * Adarsh: Update for new APK's
+
+Change-Id: Ie3d55e034599d1ce90c605dbde02832a1a8f7f2e
 ---
  res/mipmap-anydpi-v26/etk.xml |   5 +++++
  res/mipmap-xhdpi/etk.png      | Bin 44393 -> 0 bytes
@@ -10275,4 +10277,7 @@ zQW0%Qr7sO946qwok1bs=VgL!e|F67`<|V_{n%s>b+f4K2u7-2$|Fv;2%V4%9T)>sk
 zOo519vk?;GTNhN}*;lgdb)(d)HQiG5>fhbC#C!**7Y*WAC7f-UpwsUb9Sg5dZ+74B
 ze=XW)V`UzsK4@lYT4btTf~MTr(|`8?)|5HbBJTVD{{f6=TG!9qY%%}<002ovPDHLk
 FV1oWJU>5)Y
+
+-- 
+2.54.0
 
